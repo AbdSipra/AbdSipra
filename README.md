@@ -9,16 +9,14 @@
 </div>
 
 <div align="center">
-<i>"Indeed, with hardship comes ease." — Quran 94:6</i>
+And that there is not for man except that [good] for which he strives.” — Quran 53:39
 </div>
 
 <br>
 
 ## About Me
 
-I'm an Artificial Intelligence graduate with practical experience in Computer Vision, Machine Learning, and Agentic AI, focused on building real-world AI solutions from concept and data processing through to deployment.
-
-I'm currently completing my BS in Artificial Intelligence at FAST-NUCES, Islamabad (expected 05/2026). During my internship as an AI/ML Engineer at Chrio, I contributed to a computer vision-based batsman simulation system built on real match footage, annotating 3,000+ images and performing feature engineering to improve model training and behavioral prediction.
+BS Artificial Intelligence graduate from FAST-NUCES, Islamabad, with hands-on experience developing Computer Vision and AI-based projects. Focused on applying AI/ML, Agentic AI, and MLOps to build practical, reliable solutions.
 
 ## 🎯 Open to Opportunities
 
