@@ -164,16 +164,8 @@ Central hub repository linking together my personal and collaborative projects.
 Source code for my personal portfolio site.
 `React` `Vite`
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AbdSipra&show_icons=true&theme=default&hide_border=true&title_color=0E75B6&icon_color=0E75B6&text_color=333333&bg_color=ffffff" alt="Abdullah's GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdSipra&layout=compact&theme=default&hide_border=true&title_color=0E75B6&text_color=333333&bg_color=ffffff" alt="Top Languages" height="165"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdSipra&color=0E75B6&line=0E75B6&point=0E75B6&area=true&hide_border=true&bg_color=ffffff" alt="GitHub Activity Graph" width="100%"/>
-
-</div>
+📊 GitHub Stats
+<div align="center"> <img src="https://github-stats-extended.vercel.app/api?username=AbdSipra&show_icons=true&theme=default&hide_border=true&title_color=0E75B6&icon_color=0E75B6&text_color=333333&bg_color=ffffff" alt="Abdullah's GitHub Stats" height="165"/> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AbdSipra&layout=compact&theme=default&hide_border=true&title_color=0E75B6&text_color=333333&bg_color=ffffff" alt="Top Languages" height="165"/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdSipra&color=0E75B6&line=0E75B6&point=0E75B6&area=true&hide_border=true&bg_color=ffffff" alt="GitHub Activity Graph" width="100%"/> </div>
 
 ## 📫 Connect with Me
 
