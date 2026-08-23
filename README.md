@@ -65,6 +65,12 @@ Feel free to reach out via [email](mailto:abdullahsipra2003@gmail.com) or [Linke
 ![Jenkins](https://img.shields.io/badge/Jenkins-0E75B6?style=for-the-badge&logo=jenkins&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-0E75B6?style=for-the-badge)
 
+## Available for Freelance Work
+
+I build Python AI automations and integrate AI models, APIs, databases, and FastAPI endpoints into existing applications.
+
+[View my AI Automation service on Fiverr](https://www.fiverr.com/users/abdullah_sipra/manage_gigs/build-python-ai-automation-and-api-integrations/edit)
+
 ## 🚀 Featured Projects
 
 Projects on my own account (`AbdSipra`) are listed first in each category. Team projects built with collaborators are marked accordingly and linked to the account they're hosted under.
