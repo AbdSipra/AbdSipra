@@ -69,7 +69,7 @@ Feel free to reach out via [email](mailto:abdullahsipra2003@gmail.com) or [Linke
 
 I build Python AI automations and integrate AI models, APIs, databases, and FastAPI endpoints into existing applications.
 
-[View my AI Automation service on Fiverr](https://www.fiverr.com/users/abdullah_sipra/manage_gigs/build-python-ai-automation-and-api-integrations/edit)
+[View my AI Automation service on Fiverr]([https://www.fiverr.com/users/abdullah_sipra/manage_gigs/build-python-ai-automation-and-api-integrations/edit](https://www.fiverr.com/s/aexaxmK))
 
 ## 🚀 Featured Projects
 
